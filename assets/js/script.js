@@ -11,10 +11,10 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-2.jpg",
     posterUrl: "./assets/images/poster-2.jpg",
-    title: "Penjaga Hati",
-    album: "Penjaga Hati",
-    year: 2023,
-    artist: "Nadhif Basalamah",
+    title: "Selamat Ulang Tahun",
+    album: "Sydney 090102",
+    year: 2002,
+    artist: "Jamrud",
     musicPath: "./assets/music/music-1.mp3",
   },
 ];
